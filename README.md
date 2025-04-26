@@ -15,4 +15,18 @@ Our international teams need access to medical handbooks and procedures in areas
 We’re looking for people who want to contribute to projects like this.
 This is not a job. No one gets paid. But we promise one thing: an incredibly good feeling.
 
+### Details 
+
+The Norwegian Red Cross is responsible for setting up the hospitals in Gaza. 
+The International department contacted us about finding a solution for the Red Cross staff so that they have access to the handbook and procedures ofline. They need ths as they are operating in a war zone and the internet connection is not reliable. 
+
+We have suggested a solution where we we compile the information into the open source tool https://kiwix.org/
+
+The kiwix Tool puts all info into their app. What i would like to explore is if it is possible to use AI and fill it with the knowledge from the handbooks.
+We could then create a Hotspot wifi where the red cross staff can connect to. 
+
+The solution must be easy to set up so that it can be operated by non tech staff. It must also be possible to run on batteries. 
+
+The information we want to make available offline is https://rodekors.service-now.com/drm the “Disaster Risk Management” handbook.
+
 ## 🙌 Want to Join?
